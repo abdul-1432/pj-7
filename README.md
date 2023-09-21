@@ -5,7 +5,7 @@ Welcome to the contact section of our project repository. We value your feedback
 
 ## 📧 Email
 
-You can send us an email at [your-email@example.com](mailto:your-email@example.com) for any inquiries or feedback. We aim to respond within 24 hours during business days.
+You can send us an email at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com) for any inquiries or feedback. We aim to respond within 24 hours during business days.
 
 ## 🐦 Twitter
 
