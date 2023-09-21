@@ -21,7 +21,7 @@ If you encounter any issues, or bugs, or have feature requests, please open an i
 
 ## 🌐 Website
 
-Visit our project's website at [https://www.example.com](https://www.example.com) for more information, documentation, and updates.
+Visit our project's website at [portfolio](http://gafoor.netlify.app/) for more information, documentation, and updates.
 
 ## 🤝 Contributing
 
