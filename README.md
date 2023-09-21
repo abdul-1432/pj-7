@@ -9,7 +9,7 @@ You can send us an email at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com
 
 ## 🐦 Twitter
 
-Follow us on Twitter [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) for updates, announcements, and discussions related to our project.
+Follow us on Twitter [@abdul-1432](https://twitter.com/YourTwitterHandle) for updates, announcements, and discussions related to our project.
 
 ## 💬 Discussion Forum
 
